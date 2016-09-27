@@ -12,6 +12,8 @@ Finally the script produces a tidy data-set with the averages of the chosen vari
 
 This script expects that at the first line the working directory is set correctly to where "getdata%2Fprojectfiles%2FUCI HAR Dataset.zip" has been unzipped.
 
+This script also assumes that the "dplyr"-package has been installed.
+
 ### CodeBook.md
 
 Contains descriptions of the available variables.
